@@ -1,0 +1,11 @@
+C:\d\Test-projects\LimitsMiddlewarwTest\LimitsMiddlewarwTest\obj\Debug\LimitsMiddlewarwTest.csprojResolveAssemblyReference.cache
+C:\d\Test-projects\LimitsMiddlewarwTest\LimitsMiddlewarwTest\bin\LimitsMiddlewarwTest.dll.config
+C:\d\Test-projects\LimitsMiddlewarwTest\LimitsMiddlewarwTest\bin\LimitsMiddlewarwTest.dll
+C:\d\Test-projects\LimitsMiddlewarwTest\LimitsMiddlewarwTest\bin\LimitsMiddlewarwTest.pdb
+C:\d\Test-projects\LimitsMiddlewarwTest\LimitsMiddlewarwTest\bin\Microsoft.Owin.dll
+C:\d\Test-projects\LimitsMiddlewarwTest\LimitsMiddlewarwTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\d\Test-projects\LimitsMiddlewarwTest\LimitsMiddlewarwTest\bin\Owin.dll
+C:\d\Test-projects\LimitsMiddlewarwTest\LimitsMiddlewarwTest\bin\Microsoft.Owin.xml
+C:\d\Test-projects\LimitsMiddlewarwTest\LimitsMiddlewarwTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\d\Test-projects\LimitsMiddlewarwTest\LimitsMiddlewarwTest\obj\Debug\LimitsMiddlewarwTest.dll
+C:\d\Test-projects\LimitsMiddlewarwTest\LimitsMiddlewarwTest\obj\Debug\LimitsMiddlewarwTest.pdb
