@@ -10,7 +10,7 @@ namespace LimitsMiddlewarwTest
     {
         public void Configuration(IAppBuilder app)
         {
-            app.Use().MaxUrlLength(2048); // Doesn't work, what shall I do? Missing usings? Which ones? 
+            app.MaxUrlLength(2048);
             
             app.Run(context =>
             {
